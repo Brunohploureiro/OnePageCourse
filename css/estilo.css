@@ -1,5 +1,13 @@
-a{
-  text-decoration: none;
-  font-size: 1.5rem;
-  color: #000;
+a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #000;
+}
+
+#menu, #about, #action, #home {
+    display: none;
+}
+
+#contact {
+    display: none;
 }
